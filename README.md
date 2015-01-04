@@ -12,3 +12,5 @@ No guarantees on this. Know how to setup twitter API keys and then go from there
 
 Use at your own risk. This does hit blockchain.info's API 
 
+Brainwallet check is modified to fit this but from https://github.com/jgilmour/brainwallet-check
+
