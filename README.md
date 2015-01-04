@@ -10,3 +10,5 @@ npm install python-shell request twitter
 
 No guarantees on this. Know how to setup twitter API keys and then go from there. You need to manually update the parameters when the tweet ID limit is. I also am stripping off replies on this. 
 
+Use at your own risk. This does hit blockchain.info's API 
+
